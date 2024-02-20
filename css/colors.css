@@ -1,0 +1,16 @@
+:root{
+    --background-color: #eaeaea;    
+    --background-contrast: #131313;
+    --accent-color:#FFAB59;
+    --button-text:#FFAB59;
+    --button-color:#000000;
+    --box-shadow:#00000044;
+}
+.darkmode{
+    --background-color: #131313;
+    --background-contrast: #FFFFFF ;
+    --accent-color:#FFAB59;
+    --button-text:#050505;
+    --button-color:#D2FE59;
+    --box-shadow:#fa96007d;
+}
